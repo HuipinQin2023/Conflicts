@@ -1,1 +1,1 @@
-var total = 20000
+var total = 2
