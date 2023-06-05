@@ -1,1 +1,1 @@
-var total = 2
+var total = 1
